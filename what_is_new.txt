@@ -1,0 +1,7 @@
+
+v68 (2021.11.07 beta)
+✔ Fixed Critical Ads issue (Thanks to everyone who reported), sorry for the inconvenience
+✔ Fixed lyrics search for Tag Editor
+✔ Memory management improved
+✔ Data consumption reduced
+✔ Other fixes and improvements
