@@ -2,8 +2,8 @@
 title: Mezzo - Official website
 layout: default
 
-build_number: 80
-version_name: 🇺🇦 2024.01.11 beta
+build_number: 81
+version_name: 🇺🇦 2024.01.12 beta
 ---
 
 <p>
